@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Carrizo.Nicolas.RPP\Test\bin\Debug\Test.exe.config
+C:\Users\User\Desktop\Carrizo.Nicolas.RPP\Test\bin\Debug\Test.exe
+C:\Users\User\Desktop\Carrizo.Nicolas.RPP\Test\bin\Debug\Test.pdb
+C:\Users\User\Desktop\Carrizo.Nicolas.RPP\Test\bin\Debug\Entidades.dll
+C:\Users\User\Desktop\Carrizo.Nicolas.RPP\Test\bin\Debug\Entidades.pdb
+C:\Users\User\Desktop\Carrizo.Nicolas.RPP\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Carrizo.Nicolas.RPP\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Carrizo.Nicolas.RPP\Test\obj\Debug\Test.csproj.Up2Date
+C:\Users\User\Desktop\Carrizo.Nicolas.RPP\Test\obj\Debug\Test.exe
+C:\Users\User\Desktop\Carrizo.Nicolas.RPP\Test\obj\Debug\Test.pdb
